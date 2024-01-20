@@ -1,4 +1,4 @@
-# TC4033.10.Equipo1.Simple_ImgProcessing
+# TC4033.10.Equipo13.Simple_ImgProcessing
 
 ## Alumnos
 
